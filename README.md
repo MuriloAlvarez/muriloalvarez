@@ -28,3 +28,6 @@ My skills are focused on Front-End, with an emphasis on UX/UI design principles.
 [![](	https://img.shields.io/badge/MySQL-43853D?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](	https://img.shields.io/badge/Bootstrap-43853D?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![]( https://img.shields.io/badge/Figma-43853D?style=for-the-badge&logo=figma&logoColor=white)]()
+[![]( https://img.shields.io/badge/Miro-43853D?style=for-the-badge&logo=Miro&logoColor=white)]()
+[![]( https://img.shields.io/badge/Trello-43853D?style=for-the-badge&logo=trello&logoColor=white)]()
+[![]( https://img.shields.io/badge/Notion-43853D?style=for-the-badge&logo=notion&logoColor=white)]()
