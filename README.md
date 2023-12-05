@@ -1,16 +1,30 @@
-### Hi there 👋
+## 😎 Hi 
 
-<!--
-**MuriloAlvarez/muriloalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Murilo Alvarez
 
-Here are some ideas to get you started:
+I am studying Systems Analysis and Development | UNISO 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills are focused on Front-End, with an emphasis on UX/UI design principles. I aim to evolve into a Full-Stack Developer.
+
+## 📲 Vamos nos conectar
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilo-alvarez-332495266)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvarxz__/)
+
+
+
+## 📊 Status
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloalvarez&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloalvarez&layout=compact&theme=merko" />
+</div>
+
+
+
+## 🕹 Skills e Ferramentas
+[![](	https://img.shields.io/badge/HTML5-43853D?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](	https://img.shields.io/badge/CSS3-43853D?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](	https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![](	https://img.shields.io/badge/MySQL-43853D?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![](	https://img.shields.io/badge/Bootstrap-43853D?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![]( https://img.shields.io/badge/Figma-43853D?style=for-the-badge&logo=figma&logoColor=white)]()
